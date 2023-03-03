@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#303F9F</color>
+    <color name="colorPrimary">#C5CAE9</color>
+    <color name="colorPrimaryVariant">#8BC34A</color>
+    <color name="colorSecondary">#DCEDC8</color>
+    <color name="colorSecondaryVariant">#7B1FA2</color>
+    <color name="colorOnSecondary">#795548</color>
+    <color name="androidstatutsBarColor">#1976D2</color>
+</resources>
